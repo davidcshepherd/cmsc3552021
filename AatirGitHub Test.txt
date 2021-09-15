@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 
 Aatir Siddiqui
 
 I am an intern.
 
 I am sus ඞ
+=======
+
+Aatir Siddiqui
+
+I am an intern.
+
+I am sus ඞ
+
+I like men
+>>>>>>> 4d60db269aa150663b3b07a07079ef077c0ef0fe

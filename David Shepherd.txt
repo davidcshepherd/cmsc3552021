@@ -1,3 +1,7 @@
 I like doritos.
+<<<<<<< HEAD
 
 Test?
+=======
+I like your class!
+>>>>>>> 4d60db269aa150663b3b07a07079ef077c0ef0fe
