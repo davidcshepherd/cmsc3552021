@@ -1,1 +1,12 @@
 I like doritos.
+<<<<<<< HEAD
+
+Test?
+=======
+I like your class!
+>>>>>>> 4d60db269aa150663b3b07a07079ef077c0ef0fe
+
+
+I am Pushing (instead of Pulling first) - if this works, curious why I can't Pull and then Push as recommended...
+
+Testing by pull then push... fingers crossed.
